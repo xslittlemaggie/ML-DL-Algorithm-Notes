@@ -1,4 +1,12 @@
 # Other-ML-DL-Algorithm-notes
-In this repository, I will list all the supplementary notes and documents during my machine learning and deep learning process.
+## Purpose:
+This repository lists all the supplementary notes and documents during my machine learning and deep learning process.
 
-such as the realization of 
+## Machine Learning notes List:
+- Realization of decision tree from scratch
+- Realization of PCA from scratch
+- Newton Method algorithm
+
+## Deep learning notes list:
+- How to import data from kaggle & organize train_validation_test dataset
+
