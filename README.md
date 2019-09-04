@@ -8,6 +8,7 @@ This repository lists all the supplementary notes and documents during my machin
 
 #### 2. PCA: realization of PCA from scratch
 #### 3. Newton Method algorithm
+[https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/Newton_Method.ipynb]
 #### 4. Data preprocessing & feature engineering necessary for ML projects
 [https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/Data_Preprocessing_%26_Feature_Engineering.ipynb]
 
