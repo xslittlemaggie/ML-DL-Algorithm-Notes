@@ -2,7 +2,7 @@
 ## Purpose:
 This repository lists all the supplementary notes and documents during my machine learning and deep learning process.
 
-## Part 1: Machine Learning notes:
+## Part 1: Machine Learning techniques from scratch:
 ### 1. Data preprocessing & feature engineering necessary for ML projects
 [https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/Data_Preprocessing_%26_Feature_Engineering.ipynb]
 
@@ -12,14 +12,16 @@ This repository lists all the supplementary notes and documents during my machin
 ### 3. KNN: realization of KNN from scratch
 [https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/KNN-supervised_Learning_from%20scratch%20.ipynb]
 
-### 4. PCA: realization of PCA from scratch
+### 4. KMeans: realization of KMeans from scratch 
+[https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/K-%20Means%20from%20scratch.ipynb]
+
+### 5. PCA: realization of PCA from scratch
 [https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/PCA%20from%20scratch.ipynb]
-
-### 5. Newton Method algorithm
-[https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/Newton_Method.ipynb]
-
 
 ## Part 2: Loading data:
 ### 1. How to import data from kaggle & organize train_validation_test dataset
 [https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/How_to_import_data_from_Kaggle_%26_organize_train_validation_test_folders.ipynb]
 
+## Part 3: Other algorithms
+### 1. Newton Method algorithm
+[https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/Newton_Method.ipynb]
