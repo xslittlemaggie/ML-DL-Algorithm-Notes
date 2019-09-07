@@ -1,4 +1,4 @@
-# ML-DL-Algorithm-notes
+# Machine Learning & Deep Learning notes
 ## Purpose:
 This repository lists the supplementary notes and documents during my machine learning and deep learning process.
 
