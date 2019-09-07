@@ -11,7 +11,7 @@ This repository lists the supplementary notes and documents during my machine le
 
 ### [4. PCA: implementation of PCA from scratch](https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/PCA%20from%20scratch.ipynb)
 
-# Part 2: data preprocessing and measurements for model performance
+# Part 2: Data preprocessing and measurements for model performance
 ### [1. Data preprocessing & feature engineering necessary for ML projects](https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/Data_Preprocessing_%26_Feature_Engineering.ipynb)
 
 ### [2. ROC_AUC_Confusion_Matrix](https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/ROC_AUC_Confusion_Matrix.ipynb)
