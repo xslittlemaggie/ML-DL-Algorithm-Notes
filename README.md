@@ -22,7 +22,7 @@ This repository lists all the supplementary notes and documents during my machin
 ### 2. ROC_AUC_Confusion_Matrix
 [https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/ROC_AUC_Confusion_Matrix.ipynb]
 
-### 3. Descrite continuous features (CHiSquare, 卡方分箱)
+### 3. Descrite continuous features (ChiSquare, 卡方分箱)
 [https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/%E5%8D%A1%E6%96%B9%E5%88%86%E7%AE%B1.ipynb]
 
 # Part 3: Loading data:
@@ -32,6 +32,6 @@ This repository lists all the supplementary notes and documents during my machin
 - e.g. 1. from sklearn.datasets import wine
 - e.g. 2. from skelarn.datasets import iris
 
-## Part 3: Other algorithms
+# Part 4: Other algorithms
 ### 1. Newton Method algorithm
 [https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/Newton_Method.ipynb]
