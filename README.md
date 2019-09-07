@@ -25,3 +25,6 @@ This repository lists the supplementary notes and documents during my machine le
 
 ## Part 4: Other algorithms
 ### [1. Newton Method algorithm](https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/Newton_Method.ipynb)
+
+## Part 5: Other notes
+### [1. Random Forest](https://github.com/xslittlemaggie/ML-DL-Algorithm-Notes/blob/master/Random_Forest.ipynb)
