@@ -1,6 +1,6 @@
 # ML-DL-Algorithm-notes
 ## Purpose:
-This repository lists all the supplementary notes and documents during my machine learning and deep learning process.
+This repository lists the supplementary notes and documents during my machine learning and deep learning process.
 
 # Part 1: Machine Learning techniques from scratch:
 ### 2. Decision Tree: realization of decision tree from scratch 
