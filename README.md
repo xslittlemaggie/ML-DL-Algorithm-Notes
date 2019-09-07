@@ -4,13 +4,12 @@ This repository lists the supplementary notes and documents during my machine le
 
 # Part 1: Machine Learning techniques from scratch:
 ### 1. Decision Tree: realization of decision tree from scratch 
-[https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/Decision_Tree_from_scratch_to_complete.ipynb]
+[Click Here for code](https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/Decision_Tree_from_scratch_to_complete.ipynb)
 
 ### 2. KNN: realization of KNN from scratch
 [https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/KNN-supervised_Learning_from%20scratch%20.ipynb]
 
-### 3. KMeans: realization of KMeans from scratch 
-[https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/K-%20Means%20from%20scratch.ipynb]
+### 3. KMeans: realization of KMeans from scratch[https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/K-%20Means%20from%20scratch.ipynb]
 
 ### 4. PCA: realization of PCA from scratch
 [https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/PCA%20from%20scratch.ipynb]
