@@ -28,7 +28,7 @@ This repository lists all the supplementary notes and documents during my machin
 # Part 3: Loading data:
 ### 1. How to import data from kaggle & organize train_validation_test dataset
 [https://github.com/xslittlemaggie/Other-ML-DL-Algorithm-notes/blob/master/How_to_import_data_from_Kaggle_%26_organize_train_validation_test_folders.ipynb]
-### 2. import sklearn
+### 2. import datasets from sklearn in-built function
 - e.g. 1. from sklearn.datasets import wine
 - e.g. 2. from skelarn.datasets import iris
 
